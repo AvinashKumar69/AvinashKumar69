@@ -1,3 +1,2 @@
 # hello-world
-its my 1st interaction with GitHub.
-hey guys, its going very well and i'm writing this for the new branch of master. thanks. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itHurtsMe2HurtU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
