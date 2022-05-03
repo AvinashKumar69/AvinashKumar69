@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **ak2449746@gmail.com**
+- 📫 Ping me **ak2449746@gmail.com**
 
 - ⚡ Fun fact **I play online video games.**
 
