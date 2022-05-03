@@ -1,4 +1,4 @@
-# hello-world
-(https://ithurtsme2hurtu.github.io/MyPortfolio-React.js/)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itHurtsMe2HurtU&layout=compact)](https://github.com/itHurtsMe2HurtU/github-readme-stats) -->
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=itHurtsMe2HurtU&show_icons=true&theme=radical)
+ <h1 align='center'>
+  Hi there 👋  I'm   <a href="https://github.com/itHurtsMe2HurtU" target="_blank">
+  Avinash Kumar</a> 👨‍💻
+</h1>
