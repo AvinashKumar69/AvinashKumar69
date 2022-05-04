@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Avinash Kumar</b></h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Avinash Kumar</b></h1>
 <h3 align="left">I'm a passionate <b>Frontend Web Developer</b> from India.</h3>
 
 <h3 align="left">## 🙋‍♂️ About Me</h3>
@@ -9,7 +9,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 Ping me at **ak2449746@gmail.com**
+- 📚 What do I believe? Jack of all, Master of some.
+
+- 📫 Ping me at: **ak2449746@gmail.com**
 
 - ⚡ Fun fact **I play online video games.**
 
@@ -38,4 +40,14 @@
   <a href="https://github.com/itHurtsMe2HurtU/github-readme-stats"><img alt="Avinash Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itHurtsMe2HurtU&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="370px" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>
+  <br/>
+  
+  <h3> 🤝🏻 Connect with Me </h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/avinash-kumar-8047a7235/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+<!-- <a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a> -->
+<a href="mailto:ak2449746@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ak2449746@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
