@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently working as **React JS Developer**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 Currently learning **MERN Stack**
+
+<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
 - 📚 What do I believe? Jack of all, Master of some.
 
-- 📫 Ping me at: **ak2449746@gmail.com**
+<!-- - 📫 Ping me at: **ak2449746@gmail.com** -->
 
 - ⚡ Fun fact **I play online video games.**
 
