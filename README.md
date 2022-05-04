@@ -46,7 +46,7 @@
   <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/avinash-kumar-8047a7235/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/avinash-kumar-8047a7235/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Avinash%20Kumar-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:ak2449746@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ak2449746@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
