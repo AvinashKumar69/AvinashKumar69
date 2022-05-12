@@ -37,9 +37,10 @@
 <h3 align="left"># 📊 My Github Stats</h3>
 
   <br/>
-    <a href="https://github.com/itHurtsMe2HurtU/github-readme-stats"><img alt="Avinash Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itHurtsMe2HurtU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="370px" /></a>
+    <a href="https://github.com/itHurtsMe2HurtU/github-readme-stats"><img alt="Avinash Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itHurtsMe2HurtU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="320px" /></a>
 <!--     <br /> -->
-  <a href="https://github.com/itHurtsMe2HurtU/github-readme-stats"><img alt="Avinash Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itHurtsMe2HurtU&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="370px" /></a>
+  <a href="https://github.com/itHurtsMe2HurtU/github-readme-stats"><img alt="Avinash Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itHurtsMe2HurtU&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="320px" /></a>
+  <a href="https://stackoverflow.com/users/18285376/avinash-kumar"><img src="https://stackoverflow.com/users/flair/18285376.png?theme=dark" width="320px" height="123px" alt="profile for Avinash Kumar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Avinash Kumar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
