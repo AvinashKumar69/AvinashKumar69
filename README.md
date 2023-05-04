@@ -32,30 +32,39 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 </p>
 
-<!-- <hr /> -->
+<hr />
 
-<h3 align="left"># 📊 My Github Stats</h3>
+<h6 align="left"># 📊 My GitHub Activities</h6>
 
   <br/>
     <a href="https://github.com/AvinashKumar69/github-readme-stats"><img alt="Avinash Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvinashKumar69&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="320px" /></a>
 <!--     <br /> -->
   <a href="https://github.com/AvinashKumar69/github-readme-stats"><img alt="Avinash Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashKumar69&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="320px" /></a>
+  
+<hr />
+
+<h6 align="left"># 📊 My LeetCode Stats</h6>
+
+<!-- ![Leetcode Stats Basic](https://leetcard.jacoblin.cool/ak2449746) -->
+![Leetcode Stats with Recent Activities](https://leetcard.jacoblin.cool/ak2449746?ext=activity)
+<!-- ![Leetcode Stats with Curved Border](https://leetcard.jacoblin.cool/ak2449746?border=0&radius=20) -->
+
+<hr />
+  
+<h6 align="left"># 📊 My Stack Overflow Profile</h6>
+  
   <a href="https://stackoverflow.com/users/18285376/avinash-kumar"><img src="https://stackoverflow.com/users/flair/18285376.png?theme=dark" width="320px" height="123px" alt="profile for Avinash Kumar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Avinash Kumar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
   <br/>
   
-  <h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/avinash-kumar-8047a7235/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Avinash%20Kumar-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:ak2449746@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ak2449746@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/ak2449746)
-<!-- https://leetcode.com/ak2449746/ -->
 
 
