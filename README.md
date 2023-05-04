@@ -54,3 +54,8 @@
 <a href="mailto:ak2449746@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ak2449746@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ak2449746)
+<!-- https://leetcode.com/ak2449746/ -->
+
+
